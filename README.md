@@ -1,5 +1,5 @@
 # ServiTrans
-Un Pseudo sistema de punto de venta en JavaFx con una base de datos envebida DB4O.
+Un Pseudo sistema de punto de venta en JavaFx con una base de datos embebida DB4O.
 
 #Proyecto en Netbeans
 
